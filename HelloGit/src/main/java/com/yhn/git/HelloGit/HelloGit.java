@@ -14,5 +14,6 @@ public class HelloGit {
         System.out.println("科伦下的项目 ");
         System.out.println("克隆 ");
         System.out.println("测试ssh ");
+        System.out.println("ssshh ");
     }
 }
